@@ -3,3 +3,7 @@
 ################################################################################
 
 /DesignPatternCombo1.Infrastructure/bin/Debug/netcoreapp2.1
+/DesignPatternCombo1.Infrastructure/obj
+/DesignPatternCombo1.Web/bin/Debug/netcoreapp2.1
+/DesignPatternCombo1.Web/obj
+/.vs
